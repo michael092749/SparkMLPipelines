@@ -2,6 +2,9 @@
 
 This Jupyter Notebook demonstrates an advanced data science pipeline using Apache Spark, focusing on document clustering with K-means. The project showcases various aspects of big data processing, machine learning, and data visualization.
 
+## Project Overview
+In this notebook, we demonstrate an application of the K-means clustering algorithm, implemented within PySpark's MLLib, to a dataset of text news articles. Our goal is to group these articles into coherent categories based on similar topics.
+
 ## Key Features:
 
 - **Text Preprocessing**: Implement effective techniques to prepare raw news articles for analysis.
